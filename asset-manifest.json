@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/consult/static/css/main.e6badf53.css",
-    "main.js": "/consult/static/js/main.bfe8f128.js",
-    "static/js/787.05a4e8b9.chunk.js": "/consult/static/js/787.05a4e8b9.chunk.js",
-    "static/media/imagen-stock.jpg": "/consult/static/media/imagen-stock.7cf5a4958319be8da003.jpg",
-    "static/media/logo.png": "/consult/static/media/logo.9799c5b5e820689180d6.png",
-    "index.html": "/consult/index.html",
-    "main.e6badf53.css.map": "/consult/static/css/main.e6badf53.css.map",
-    "main.bfe8f128.js.map": "/consult/static/js/main.bfe8f128.js.map",
-    "787.05a4e8b9.chunk.js.map": "/consult/static/js/787.05a4e8b9.chunk.js.map"
+    "main.css": "/jas-consult-site/static/css/main.a5d853c9.css",
+    "main.js": "/jas-consult-site/static/js/main.4afe1121.js",
+    "static/js/787.05a4e8b9.chunk.js": "/jas-consult-site/static/js/787.05a4e8b9.chunk.js",
+    "static/media/imagen-stock.jpg": "/jas-consult-site/static/media/imagen-stock.7cf5a4958319be8da003.jpg",
+    "static/media/logo.png": "/jas-consult-site/static/media/logo.9799c5b5e820689180d6.png",
+    "index.html": "/jas-consult-site/index.html",
+    "main.a5d853c9.css.map": "/jas-consult-site/static/css/main.a5d853c9.css.map",
+    "main.4afe1121.js.map": "/jas-consult-site/static/js/main.4afe1121.js.map",
+    "787.05a4e8b9.chunk.js.map": "/jas-consult-site/static/js/787.05a4e8b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6badf53.css",
-    "static/js/main.bfe8f128.js"
+    "static/css/main.a5d853c9.css",
+    "static/js/main.4afe1121.js"
   ]
 }
